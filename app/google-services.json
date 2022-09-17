@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011214901690",
+    "project_id": "pg-rooms-2d4d8",
+    "storage_bucket": "pg-rooms-2d4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011214901690:android:d593597faaf2742b917d83",
+        "android_client_info": {
+          "package_name": "com.ringolatechapps.pgrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011214901690-smb0kbggq1ohc1ac36ne3arv7qqo2ila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTq_cWKbysu6m6ROAQqXGdDPNI0HoG2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011214901690-smb0kbggq1ohc1ac36ne3arv7qqo2ila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
